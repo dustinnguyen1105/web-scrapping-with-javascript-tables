@@ -5,6 +5,8 @@ In conclusion, scraping JavaScript tables with Python is a powerful way to extra
 
 In this project, I will scrape the medicine data that is public by the MoH in the Vietnamese market, this dataset can be used for various purposed like pricing analysis, master data file for medicine data, etc.
 
+The link to the dataset: https://dichvucong.dav.gov.vn/CongBoGiaThuoc/index
+
 Now, Let's start scrapping.
 
 ## What is a JavaScript table ##
