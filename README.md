@@ -22,3 +22,7 @@ Once the webpage is loaded, we can use Selenium to extract the data from the tab
 
 ### Step 3: Store and manipulate the data ###
 Detail in the notebook
+
+## Execise ##
+Here is the webpage with similar html code. The link is below and the notebook is also attached, please use it for review.
+https://hososuckhoe.net/tien-ich/y-te-toan-quoc.html#!#danhsachcoso
